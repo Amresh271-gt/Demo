@@ -1,2 +1,3 @@
 # Demo
-Demo Repository o GitHub
+Demo Repository on GitHub
+Author Amresh Kumar Yadav
